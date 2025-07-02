@@ -36,16 +36,16 @@
 //> using dependency io.circe::circe-core:0.14.14
 
 // tapir
-//> using dependency com.softwaremill.sttp.apispec::openapi-circe-yaml:0.11.9
-//> using dependency com.softwaremill.sttp.tapir::tapir-cats:1.11.34
-//> using dependency com.softwaremill.sttp.tapir::tapir-otel4s-tracing:1.11.34
-//> using dependency com.softwaremill.sttp.tapir::tapir-opentelemetry-metrics:1.11.34
-//> using dependency com.softwaremill.sttp.tapir::tapir-core:1.11.34
-//> using dependency com.softwaremill.sttp.tapir::tapir-files:1.11.34
-//> using dependency com.softwaremill.sttp.tapir::tapir-json-circe:1.11.34
-//> using dependency com.softwaremill.sttp.tapir::tapir-netty-server-cats:1.11.34
-//> using dependency com.softwaremill.sttp.tapir::tapir-openapi-docs:1.11.34
-//> using dependency com.softwaremill.sttp.tapir::tapir-redoc-bundle:1.11.34
+//> using dependency com.softwaremill.sttp.apispec::openapi-circe-yaml:0.11.10
+//> using dependency com.softwaremill.sttp.tapir::tapir-cats:1.11.35
+//> using dependency com.softwaremill.sttp.tapir::tapir-otel4s-tracing:1.11.35
+//> using dependency com.softwaremill.sttp.tapir::tapir-opentelemetry-metrics:1.11.35
+//> using dependency com.softwaremill.sttp.tapir::tapir-core:1.11.35
+//> using dependency com.softwaremill.sttp.tapir::tapir-files:1.11.35
+//> using dependency com.softwaremill.sttp.tapir::tapir-json-circe:1.11.35
+//> using dependency com.softwaremill.sttp.tapir::tapir-netty-server-cats:1.11.35
+//> using dependency com.softwaremill.sttp.tapir::tapir-openapi-docs:1.11.35
+//> using dependency com.softwaremill.sttp.tapir::tapir-redoc-bundle:1.11.35
 
 // opentelemetry
 //> using dependency org.typelevel::otel4s-oteljava:0.12.0
@@ -53,8 +53,8 @@
 //> using dependency io.opentelemetry:opentelemetry-sdk:1.51.0
 //> using dependency io.opentelemetry:opentelemetry-sdk-extension-autoconfigure:1.51.0
 //> using dependency io.opentelemetry.instrumentation:opentelemetry-logback-appender-1.0:2.16.0-alpha
-//> using dependency io.github.arturaz::otel4s-doobie:0.5.0
+//> using dependency io.github.arturaz::otel4s-doobie:0.7.1
 //> using dependency io.opentelemetry.instrumentation:opentelemetry-hikaricp-3.0:2.16.0-alpha
 
 // biscuit
-//> using dependency org.biscuitsec:biscuit:2.3.1
+//> using dependency org.biscuitsec:biscuit:4.0.1

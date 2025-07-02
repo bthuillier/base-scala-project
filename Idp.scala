@@ -1,10 +1,9 @@
 package base
 
-import com.clevercloud.biscuit.token.Biscuit
-import com.clevercloud.biscuit.crypto.KeyPair
 import scala.jdk.CollectionConverters.*
-import com.clevercloud.biscuit.token.builder.Term
-import com.clevercloud.biscuit.token.Authorizer
+import org.biscuitsec.biscuit.token.{Authorizer, Biscuit}
+import org.biscuitsec.biscuit.crypto.KeyPair
+import org.biscuitsec.biscuit.token.builder.Term
 
 object Idp:
 

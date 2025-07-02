@@ -6,7 +6,7 @@ import cats.effect.kernel.Sync
 import base.AppConfig.HttpConfig
 import base.AppConfig.PostgresConfig
 import base.AppConfig.BiscuitConfig
-import com.clevercloud.biscuit.crypto.KeyPair
+import org.biscuitsec.biscuit.crypto.KeyPair
 
 final case class AppConfig(
     http: HttpConfig,
